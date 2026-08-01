@@ -44,4 +44,4 @@ wiki-series-skill/
 ## 关联项目
 
 - Wiki 站点：[yeatsliao.github.io/wiki](https://yeatsliao.github.io/wiki)
-- Wiki 仓库：`D:\2.Project\wiki`
+- Wiki 仓库：[github.com/YeatsLiao/wiki](https://github.com/YeatsLiao/wiki)
